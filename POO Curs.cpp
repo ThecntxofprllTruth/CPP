@@ -93,10 +93,7 @@ long sum(int x, int y)
   return s; 
 }
 
-//DESTRUCTORUL 
 
-//CURS 7
-//mi-a fost sila sa scriu cv la curs, vorbeam cu Lidia pe Insta
 
 //CURS 8
 
